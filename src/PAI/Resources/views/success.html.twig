@@ -1,0 +1,10 @@
+{% extends 'layout.html.twig' %}
+
+{% block body %}
+    <p>Przesłane dane:</p>
+    <ul class="dataset">
+        <li>Email: <kbd>{{ data.email }}</kbd></li>
+        <li>Imię: <kbd>{{ data.name }}</kbd></li>
+        <li>Nazwisko: <kbd>{{ data.surname }}</kbd></li>
+    </ul>
+{% endblock %}

@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 5% 15%;
+    min-width: 250px;
+}
+
+header h1 {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+form button#pai_form_submit {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    color: #666;
+    margin-top: 20px;
+}
+
+ul.dataset {
+    padding-left: 0;
+}
+
+ul.dataset li {
+    list-style: none inside;
+    background-color: #eee;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+    clear: both;
+}
+
+ul li kbd {
+    float: right;
+}

@@ -11,7 +11,8 @@ Wymanagania:
 ## Instalacja
 
 - Instalacja vendorów za pomocą `composer install`,
-- Stworzenie własnego pliku **parameters.yml** na podstawie parameters.yml.dist.
+- Instalacja bowera za pomocą `npm install bower -g`,
+- Instalacja assetów za pomocą `bower install`.
 
 ## Opis
 

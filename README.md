@@ -1,4 +1,4 @@
-# PAI 1
+# PAI 1 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/daniel-iwaniec/pai1/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/daniel-iwaniec/pai1/?branch=master)
 
 Labolatorium z przedmiotu *projektowanie aplikacji internetowych 1*. Tematem labolatorium jest **obsługa formularza przez PHP**.
 

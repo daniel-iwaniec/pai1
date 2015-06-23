@@ -1,9 +1,11 @@
 {
-  "name": "pai-form",
-  "version": "1.0.0",
-  "author": "Daniel Iwaniec, Artur Kałuża",
-  "license": "MIT",
-  "dependencies": {
-    "bower": "^1.3.12"
-  }
+    "name": "pai-form",
+    "description": "Projektowanie aplikacji internetowych 1",
+    "repository": "https://github.com/daniel-iwaniec/pai1",
+    "author": "Daniel Iwaniec, Artur Kałuża",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "bower": "^1.3.12"
+    }
 }
